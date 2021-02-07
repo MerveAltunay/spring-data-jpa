@@ -1,5 +1,0 @@
-# Project exclude paths
-/out/
-.idea/
-spring-data-jpa.iml
-target/
